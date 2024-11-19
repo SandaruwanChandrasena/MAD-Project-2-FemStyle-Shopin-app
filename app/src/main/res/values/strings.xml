@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Test6</string>
+
+    <!--activity_Welcome-->
+    <string name="welcome_message">FemStyle</string>
+    <string name="welcome_button_text">Welcome</string>
+
+    <string name="txtLogin">Login</string>
+    <string name="edtEmail">Email</string>
+    <string name="edtPassword">Password</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnFB">Facebook</string>
+    <string name="btnG">Google</string>
+
+
+
+    <string name="txtSign">SignUp</string>
+    <string name="edtName">Name</string>
+    <string name="btnSign">SignUp</string>
+
+    <string name="btnBuy">Buy Now  </string>
+    <string name="btnCart">Add Cart</string>
+
+
+
+
+
+</resources>
