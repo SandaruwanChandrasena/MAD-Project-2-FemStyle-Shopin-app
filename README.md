@@ -13,3 +13,5 @@ FemStyle is an online shopping app designed for women to explore and purchase st
 - Implement simple page navigation. 
 
 ![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-2-FemStyle-Shopin-app/blob/ef9d692afad1ed9e215c06bbba0eedd4426fb9a8/S1.png)
+![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-2-FemStyle-Shopin-app/blob/281a069c81e220ae1a95c4e92dc9770c64d34068/S2.png)
+![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-2-FemStyle-Shopin-app/blob/281a069c81e220ae1a95c4e92dc9770c64d34068/S3.png)
