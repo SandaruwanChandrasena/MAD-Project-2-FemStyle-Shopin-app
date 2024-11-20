@@ -11,3 +11,5 @@ FemStyle is an online shopping app designed for women to explore and purchase st
 - Learn and familiarize with **Android Studio**.  
 - Develop all UI components using Android Studio.  
 - Implement simple page navigation. 
+
+![image alert](https://github.com/SandaruwanChandrasena/MAD-Project-2-FemStyle-Shopin-app/blob/ef9d692afad1ed9e215c06bbba0eedd4426fb9a8/S1.png)
